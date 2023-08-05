@@ -28,3 +28,5 @@ but in the interest of time, anything will do.
 (One of my rubrics is for a Docker image to be built on the raspberry pi,
 which I assume means an API server acknowledging that the raspberry pi cam successfully scanned the qr code.
 I could use some advice on how to implement a working version of what has been described.)
+
+Used Android studio to visualise the app, but there are a few errors all of a sudden. Also, there is something wrong with the firebase.js file, at firebase.apps.length.
